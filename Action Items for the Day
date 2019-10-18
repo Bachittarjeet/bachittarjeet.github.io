@@ -1,0 +1,17 @@
+Health CHeck				Done 			`	All good
+
+Email to Jordan 			Himanshu 			On-Going
+CC: Sharath, Abhishek
+
+Email to Chris/Drew			
+Update to Jenny
+Test Categorizer
+
+
+Some things for email
+=================================================
+1. Need 2 Non-prod and 1 Prod for Dev,SIT and Prod
+2. Currently we need it for DAta Extraction API
+3. ALso need it for future ready applications like ML MOdels.
+4. Why PCF? Because IT's having high availabily,Maintainability, Easy to use and Faster DB execution using
+5. it take only one minute to deploy and app on PCF 
