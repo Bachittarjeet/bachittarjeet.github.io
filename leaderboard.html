@@ -127,11 +127,11 @@ for (var k = 0; k < users.length; k++) {
     scores[k]['scores'] = 0;
 }
 
-setInterval(function() {
+var refreshIntervalId = setInterval(function() {
     jsonResponse = []
     if (j == users.length) {
-        j = 0;
-        $("#list").empty()
+        alert("Leaderboard Hass ben Loaded");
+        clearInterval(refreshIntervalId);
     }
     if (j < users.length) {
 
@@ -153,7 +153,7 @@ setInterval(function() {
                         var postdate = i.created_at.split("T")[0].split('-')
                         var curdate = new Date(postdate[0], postdate[1], postdate[2])
                         var startdate = new Date("2019", "10", "16")
-                        var enddate = new Date("2019", "10", "19")
+                        var enddate = new Date("2019", "10", "31")
 
                         i.node_id = i.node_id.split('=')[0]
                         if (curdate.getTime() > startdate.getTime() && curdate.getTime() < enddate.getTime()) {
