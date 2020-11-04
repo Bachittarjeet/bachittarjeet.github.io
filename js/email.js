@@ -1,1 +1,0 @@
-var a=$("form#myform");a.submit(function(e){e.preventDefault();var n="default_service";var t="template_7jpBNKfr";a.find("button").text("Sending...");emailjs.t(n,t,a[0]).then(function(){alert("Response Sent!");a.find("button").text("Send")},function(e){alert("Send email failed!\r\n Response:\n "+JSON.stringify(e));a.find("button").text("Send")})});
