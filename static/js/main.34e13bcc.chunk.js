@@ -42,7 +42,7 @@
             c = {
                 github: "https://github.com/Bachittarjeet",
                 linkedin: "https://www.linkedin.com/in/Bachittarjeet/",
-                gmail: "Bachittarjeet@gmail.com",
+                gmail: "TheDevBj@gmail.com",
                 facebook: "https://www.facebook.com/Bachittarjeet",
                 medium: "https://medium.com/@Bachittarjeet",
                 twitter: "https://www.twitter.com/Bachittarjeet",
@@ -202,8 +202,8 @@
             },
             b = {
                 title: l()("Podcast \ud83c\udf99\ufe0f"),
-                subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
-                podcast: ["https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"]
+                subtitle: "I LOVE TO TALK ABOUT POETRY",
+                podcast: [`<iframe src="https://open.spotify.com/embed-podcast/show/0R6r0TMDJ9MKMnhJPrSL7e" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>`]
             },
             E = {
                 title: l()("Contact Me \u260e\ufe0f"),
