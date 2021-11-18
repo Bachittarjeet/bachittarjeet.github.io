@@ -115,7 +115,7 @@
                     desc: "A platform to provide hands on workshops to school students ",
                     descBullets: ["Weekend Session", "Discussion Groups", "On-Demand Support"]
                 }, {
-                    role: "Software Engineer",
+                    role: "Software Engineer 2",
                     company: "Dell",
                     companylogo: a(26),
                     date: "July 2019 \u2013 Present",
@@ -182,12 +182,12 @@
                 }]
             },
             p = {
-                title: "Blogs",
-                subtitle: "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+                title: "Impossible List",
+                subtitle: "The impossible list is an ever-evolving list of experiences that build upon each other, help others as well as yourself, and implore you to take action. This is mine, which is, of course, ever-evolving.",
                 blogs: [{
-                    url: "https://medium.com/@bachittarjeet/mental-filtering-in-the-nlp-way-e16328774310",
-                    title: "Mental Filtering - The NLP Way",
-                    description: "The mental filter is a term used to describe a type of cognitive distortion that can lead people into ..."
+                    url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmnVQt0aQWpd-z4IPX2WRNLQfrAIxegpDf5G-_8NEljtWBjvzCdiTzs5hvzUNVgpzx3teBFntEJX-z/pub?gid=2140389052&single=true&output=pdf",
+                    title: "Impossible List - PDF",
+                    description: "Checkout my impossible list here "
                 }]
             },
             f = {
@@ -196,8 +196,8 @@
                 talks: [{
                     title: "Technology Specific Workshop",
                     subtitle: "Occurs Every Sunday",
-                    slides_url: "https://www.unocoders.com/",
-                    event_url: "https://www.unocoders.com/"
+                    slides_url: "#",
+                    event_url: "#"
                 }]
             },
             b = {
