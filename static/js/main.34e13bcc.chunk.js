@@ -183,10 +183,10 @@
             },
             p = {
                 title: "Impossible List",
-                subtitle: "What is an Impossible List? Check it <a> here </a>",
+                subtitle: "Ever heard about an Impossible List?",
                 blogs: [{
-                    url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmnVQt0aQWpd-z4IPX2WRNLQfrAIxegpDf5G-_8NEljtWBjvzCdiTzs5hvzUNVgpzx3teBFntEJX-z/pub?gid=2140389052&single=true&output=pdf",
-                    title: "Impossible List - PDF",
+                    url: "https://docs.google.com/spreadsheets/d/175cqpxqK7odCIP0UcZsGPezoWqTVtPXF4eSUHs6XSqY/edit?usp=sharing",
+                    title: "Impossible List - Google Sheet",
                     description: " The impossible list is an ever-evolving list of experiences that build upon each other, help others as well as yourself, and implore you to take action. This is mine, which is, of course, ever-evolving."
                 }]
             },
