@@ -458,7 +458,6 @@
                     href: "#blogs"
                 }, "Impossible List")), l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#talks"
-                }
                 }, "Contact Me")), l.a.createElement("li", null, l.a.createElement("a", null, l.a.createElement(k, null))))))
             },
             N = (a(73), a(17));
