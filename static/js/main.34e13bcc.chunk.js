@@ -452,14 +452,13 @@
                     href: "#skills"
                 }, "Skills")), !0 === t && l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#experience"
-                }, "Work Experiences")), l.a.createElement("li", null, l.a.createElement("a", {
+                }, "Experiences")), l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#opensource"
                 }, "Open Source")), l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#blogs"
-                }, "Blogs")), l.a.createElement("li", null, l.a.createElement("a", {
+                }, "Impossible List")), l.a.createElement("li", null, l.a.createElement("a", {
                     href: "#talks"
-                }, "Workshops")), l.a.createElement("li", null, l.a.createElement("a", {
-                    href: "#contact"
+                }
                 }, "Contact Me")), l.a.createElement("li", null, l.a.createElement("a", null, l.a.createElement(k, null))))))
             },
             N = (a(73), a(17));
