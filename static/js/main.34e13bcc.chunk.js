@@ -192,12 +192,12 @@
             },
             f = {
                 title: "Workshops",
-                subtitle: l()("I LOVE TO SHARE MY LIMITED KNOWLEDGE TO MY CIRCLE \ud83d\ude05"),
+                subtitle: l()("I love to mentor people who wants to learn coding/programming.\ud83d\ude05"),
                 talks: [{
-                    title: "Technology Specific Workshop",
+                    title: "Technology Specific Mentorship Workshop",
                     subtitle: "Occurs Every Sunday",
-                    slides_url: "#",
-                    event_url: "#"
+                    slides_url: "https://forms.gle/khY1r8wXaRVfKmER6",
+                    event_url: "https://forms.gle/khY1r8wXaRVfKmER6"
                 }]
             },
             b = {
